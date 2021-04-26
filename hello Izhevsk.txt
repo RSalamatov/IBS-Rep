@@ -1,1 +1,2 @@
 print("hello Izhevsk")
+print("hello everyday")
